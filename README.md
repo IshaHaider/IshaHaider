@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats 
 ![Overview](https://github.com/IshaHaider/GitHubStats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![Langs](https://github.com/IshaHaider/GitHubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
