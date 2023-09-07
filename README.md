@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ![Overview](https://github.com/IshaHaider/GitHubStats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![Langs](https://github.com/IshaHaider/GitHubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
-- 📫 How to reach me: [email](mailto:isha.haider213@gmail.com) me or reach out to me on [LinkedIn](https://external.ink?to=https://www.linkedin.com/in/isha-haider-ab3255202/)!
+- 📫 How to reach me: [email](mailto:isha.haider213@gmail.com) me or reach out to me on [LinkedIn](https://www.linkedin.com/in/isha-haider-ab3255202/)!
 
