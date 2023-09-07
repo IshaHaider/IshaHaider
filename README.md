@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ** **
 - 📚 I'm a 3rd Year Software Engineering & Mechatronics Student at the University of Calgary
 - 🔭 I’m currently working on the [edu dialect app](https://github.com/Sabayara82/edu-dialect-app)
-- 🌱 I’m experienced in in Java, C/C++, Python, Full-Stack Web Development and Embedded Programming.
+- 🌱 I’m experienced in Java, C/C++, Python, Full-Stack Web Development and Embedded Programming.
 - 👯 I’m looking for new opportunities and seeking ways to develop my skillset
 
 ---
