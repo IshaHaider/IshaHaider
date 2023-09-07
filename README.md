@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 **I'm Isha!**
+<!--
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+-->
 
 ** **
 - 📚 I'm a 3rd Year Software Engineering & Mechatronics Student at the University of Calgary
